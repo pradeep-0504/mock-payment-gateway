@@ -17,7 +17,7 @@ Not a real payment system (no banks involved!) — just for learning how gateway
 - Libraries: body-parser, uuid
 - Testing Tool: Postman
 ---
-📌 How It Works
+📌 How It Works:--
  A client sends a request:
    `json
    {
